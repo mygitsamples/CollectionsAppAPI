@@ -1,4 +1,4 @@
 # CollectionsAppAPI
 
-#Launch App
-npm start
+# Launch App
+npm run start
